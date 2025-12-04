@@ -30,12 +30,19 @@ This LMS project showcases my ability to engineer complex, data-driven user inte
 
 ## 🖼️ Visual Evidence
 
-**(Provide Screenshots/GIFs of the key features below)**
+To verify the complexity of the full-stack system, please refer to the visual proofs below.
 
-1.  **Reports Dashboard:** [Link to Screenshot of Chart/Stats]
-2.  **PDF Generation UI:** [Link to Screenshot of PDF Report Interface]
-3.  **Core Front-End:** [Link to GIF of Dark Mode Toggle and Notification System]
+1.  **Reports Dashboard:** This image confirms the **Chart.js** implementation and dynamic reports dashboard.
+    ![Reports Dashboard View](https://github.com/user-attachments/assets/30ed87e7-4580-4f64-a9f4-ebd2df106e47)
+    **Dark Mode**
+    ![Reports Dashboard View](https://github.com/user-attachments/assets/a44a2261-6d76-46fa-a565-a13bcff598c0)
+    
 
----
+3.  **PDF Generation UI:** This screenshot shows the interface for triggering the high-value business function of generating **audit-ready PDF reports** (referencing `ReportController.php`).
+    ![PDF Generation Interface](YOUR_PDF_INTERFACE_IMAGE_LINK_HERE)
+    **Dark Mode**
+    ![PDF Generation Interface](YOUR_PDF_INTERFACE_IMAGE_LINK_HERE)
+    
 
-**Developed by Kim Hunlean**
+5.  **Advanced UX Features:** This GIF/screenshot demonstrates client-side interactivity, including the **persistent dark mode toggle** and **asynchronous notifications** (referencing Alpine.js/SweetAlert2).
+    ![Dark Mode Toggle and Notification](YOUR_UX_GIF_LINK_HERE)
