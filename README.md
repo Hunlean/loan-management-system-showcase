@@ -45,8 +45,19 @@ To verify the complexity of the full-stack system, please refer to the visual pr
     
 
 5.  **Advanced UX Features:** This GIF/screenshot demonstrates client-side interactivity, including the **persistent dark mode toggle** and **asynchronous notifications** (referencing Alpine.js/SweetAlert2).
-    <img src="https://github.com/user-attachments/assets/a7a680ec-b6af-453d-97bc-7eceeef8251b" width="650" alt="Demonstrates persistent dark mode toggle" />
-    
-    <img src="https://github.com/user-attachments/assets/a7a680ec-b6af-453d-97bc-7eceeef8251b" width="650" alt="Demonstrates persistent dark mode toggle" />
-    
-    <img src="https://github.com/user-attachments/assets/a7a680ec-b6af-453d-97bc-7eceeef8251b" width="650" alt="Demonstrates persistent dark mode toggle" />
+    <video src="media/dark-mode-toggle.mp4" 
+       autoplay 
+       loop 
+       muted 
+       playsinline 
+       width="100%" 
+       style="border-radius: 8px; margin-bottom: 20px;"
+></video>
+<video src="media/dark-mode-toggle.mp4" 
+       autoplay 
+       loop 
+       muted 
+       playsinline 
+       width="100%" 
+       style="border-radius: 8px; margin-bottom: 20px;"
+></video>
