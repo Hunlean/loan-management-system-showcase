@@ -44,20 +44,12 @@ To verify the complexity of the full-stack system, please refer to the visual pr
     ![PDF Generation Interface](https://github.com/user-attachments/assets/6364822b-b631-4dcb-9d3b-001ea967efe5)
     
 
-5.  **Advanced UX Features:** This GIF/screenshot demonstrates client-side interactivity, including the **persistent dark mode toggle** and **asynchronous notifications** (referencing Alpine.js/SweetAlert2).
-    <video src="media/dark-mode-toggle.mp4" 
-       autoplay 
-       loop 
-       muted 
-       playsinline 
-       width="100%" 
-       style="border-radius: 8px; margin-bottom: 20px;"
-></video>
-<video src="media/dark-mode-toggle.mp4" 
-       autoplay 
-       loop 
-       muted 
-       playsinline 
-       width="100%" 
-       style="border-radius: 8px; margin-bottom: 20px;"
-></video>
+
+https://github.com/user-attachments/assets/96b225c3-bdf1-448a-be3d-1d6821f935be
+
+
+
+
+https://github.com/user-attachments/assets/12bd2091-14a4-4bf1-903e-6728a8ade9aa
+
+
