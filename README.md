@@ -39,4 +39,3 @@ This LMS project showcases my ability to engineer complex, data-driven user inte
 ---
 
 **Developed by Kim Hunlean**
-*Full-Stack Developer*
