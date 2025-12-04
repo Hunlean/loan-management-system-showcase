@@ -6,7 +6,7 @@
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
 
 > **Status: Private Source Code | Live Demo Available**
-> This project demonstrates my advanced capability in **Full-Stack Data Management, API Integration, and Enterprise Reporting**—skills essential for building reliable government web applications.
+> This project is a production-ready application demonstrating advanced Front-End Engineering. It showcases mastery of Responsive UI design (Tailwind/Alpine.js), robust API data consumption, and dynamic Data Visualization (Chart.js), which are crucial for developing scalable enterprise systems.
 
 ---
 
