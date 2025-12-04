@@ -39,10 +39,14 @@ To verify the complexity of the full-stack system, please refer to the visual pr
     
 
 3.  **PDF Generation UI:** This screenshot shows the interface for triggering the high-value business function of generating **audit-ready PDF reports** (referencing `ReportController.php`).
-    ![PDF Generation Interface](YOUR_PDF_INTERFACE_IMAGE_LINK_HERE)
+    ![PDF Generation Interface](https://github.com/user-attachments/assets/56d03fa2-e020-433c-be77-d2f97fd304c8)
     **Dark Mode**
-    ![PDF Generation Interface](YOUR_PDF_INTERFACE_IMAGE_LINK_HERE)
+    ![PDF Generation Interface](https://github.com/user-attachments/assets/6364822b-b631-4dcb-9d3b-001ea967efe5)
     
 
 5.  **Advanced UX Features:** This GIF/screenshot demonstrates client-side interactivity, including the **persistent dark mode toggle** and **asynchronous notifications** (referencing Alpine.js/SweetAlert2).
+    ![Dark Mode Toggle and Notification](YOUR_UX_GIF_LINK_HERE)
+
+    ![Dark Mode Toggle and Notification](YOUR_UX_GIF_LINK_HERE)
+
     ![Dark Mode Toggle and Notification](YOUR_UX_GIF_LINK_HERE)
